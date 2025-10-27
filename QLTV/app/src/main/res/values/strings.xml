@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QLTV</string>
+
+    <string name="app_title">Hệ thống Quản lý Thư viện</string>
+    <string name="student_hint">Sinh viên</string>
+    <string name="change_button">Thay đổi</string>
+    <string name="book_list_title">Danh sách sách</string>
+    <string name="empty_list_text">Bạn chưa mượn quyển sách nào\nNhấn \'Thêm\' để bắt đầu hành trình đọc sách!</string>
+    <string name="add_button">Thêm</string>
+
+</resources>
